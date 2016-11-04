@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProjetoTask</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tvNovaTarefa">Nova Tarefa</string>
+    <string name="tvNomeTarefa">Nome da Tarefa</string>
+    <string name="tvDataInicio">Data Início</string>
+    <string name="tvDataFim">Data Fim</string>
+    <string name="tvHoraInicio">Hora início</string>
+    <string name="tvHoraFim">Hora Fim</string>
+    <string name="tvDescricao">Descrição da Tarefa</string><string name="btSalvar">Salvar</string>
+    
+    <string name="btDataInicio">Data Inicio</string>
+    <string name="btDataFim">Data Fim</string>
+    <string name="btHoraInicio">Hora Inicio</string>
+    <string name="btHoraFim">Hora Fim</string>
+
+</resources>
